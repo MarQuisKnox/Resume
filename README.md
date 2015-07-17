@@ -19,6 +19,8 @@
 | CSS |
 | CSS3 |
 | Debian |
+| Git |
+| GitHub |
 | HTML |
 | HTML5 |
 | iOS |
@@ -27,5 +29,6 @@
 | MySQL      |
 | PhotoShop |
 | PHP |
+| SVN |
 | VMware | 
 | Zend Framework| 

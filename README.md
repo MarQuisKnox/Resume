@@ -3,7 +3,6 @@ Polyglot Software Developer<br>
 19 years of professional experience (since 1996)
 <br>
 # Software Developer
-<br>
 Company Undisclosed<br>
 Location Undisclosed<br>
 #### March 2015 &mdash; Present

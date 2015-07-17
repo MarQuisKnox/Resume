@@ -5,6 +5,7 @@
 * Independently developed custom websites from concept to market
 
 ...Highlights
+
 ..* Job Site (similar to Stepstone, Monester, et al)
 ..* Project Management system (similar to JIRA)
 ..* Task Management system (similar to Wunderlist)

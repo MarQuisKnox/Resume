@@ -29,7 +29,7 @@
 | CSS |
 | CSS3 |
 | Debian |
-| [https://github.com/atom/electron electron]
+| [electron](https://github.com/atom/electron electron)
 | Git |
 | GitHub |
 | Highcharts |
@@ -41,7 +41,7 @@
 | Mac OS |
 | MediaWiki | 
 | MySQL      |
-| https://github.com/nwjs/nw.js NW.js| 
+| [NW.js](https://github.com/nwjs/nw.js)| 
 | PhotoShop |
 | PHP |
 | SVN |

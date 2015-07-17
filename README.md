@@ -1,9 +1,9 @@
 # Software Developer
 #### March 2015 &mdash; Present
+* Implemented Service Oriented Architecture (SOA) to reduce the amount of duplicate code & services
 * Independently developed custom desktop applications for Mac OS
 * Independently developed custom websites from concept to market
 * Independently developed custom APIs to share data between various applications
-* Implemented Service Oriented Architecture (SOA) to reduce the amount of duplicate code & services
 * Maintained & refactored existing websites
 * R & D to determine the best solution for specific scenarios 
 * Setup & maintained websites from concept to market

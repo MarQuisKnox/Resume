@@ -4,7 +4,7 @@ Polyglot Software Developer<br>
 <br>
 <br>
 <strong>Systems Administrator</strong><br>
-<strong>Database Administrator (DBA)</strong>
+<strong>Database Administrator (DBA)</strong><br><br>
 Software Development Center, Fort Lee, Virginia<br>
 March 1997 &mdash; June 1998
 * Automated software installations

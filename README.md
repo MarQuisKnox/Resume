@@ -64,7 +64,8 @@ Software Development Center<br>
 Fort Lee, Virginia<br>
 #### March 1997 &mdash; June 1998
 * Automated software installations
-* Maintained & resolved issues w/ an Oracle DB that was responsible for the civilian payroll
+* Maintained & resolved issues w/ an Oracle database that was responsible for the civilian payroll
+* Performed daily backups of servers & databases
 * Troubleshot & resolved software & e-mail issues
 
 | Highlights      | 

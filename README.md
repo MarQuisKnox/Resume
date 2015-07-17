@@ -12,14 +12,20 @@
 * Troubleshot & resolved e-mail issues
 * Troubleshot & resolved network issues
 
-##### Technology Used
+###### Technology Used
 
 | Name       | 
 | ------------- |
+| CSS |
+| CSS3 |
 | Debian |
+| HTML |
+| HTML5 |
 | iOS |
+| JSON |
 | Mac OS | 
 | MySQL      |
 | PhotoShop |
+| PHP |
 | VMware | 
 | Zend Framework| 

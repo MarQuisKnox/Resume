@@ -5,7 +5,7 @@
 * Independently developed custom websites from concept to market
 
 | Highlights      | 
-| ------------- |
+| :------------ |
 | Developed a Job Site (similar to Stepstone, Monester, et al) |
 | Developed a Project Management system (similar to JIRA) |
 | Developed a Task Management system (similar to Wunderlist) |
@@ -22,7 +22,7 @@
 ###### Technology Used
 
 | Name       | 
-| ------------- |
+| :------------ |
 | CSS |
 | CSS3 |
 | Debian |

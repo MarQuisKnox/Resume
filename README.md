@@ -10,7 +10,7 @@
 | Created software to generate 220+ websites w/ different content & images|
 | Developed a Job site (similar to Stepstone, Monster, et al) |
 | Developed a Project Management system (similar to JIRA) |
-| Developed a Sales Reporing system (CRM & ERP features) |
+| Developed a Sales Reporting system (CRM & ERP features) |
 | Developed a Social Network for internal use (similar to Facebook, Yammer, et al) |
 | Developed a Task Management system (similar to Wunderlist) |
 

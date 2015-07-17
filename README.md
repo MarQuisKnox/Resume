@@ -21,9 +21,11 @@
 | Debian |
 | Git |
 | GitHub |
+| Highcharts |
 | HTML |
 | HTML5 |
 | iOS |
+| JavaScript |
 | JSON |
 | Mac OS |
 | MediaWiki | 

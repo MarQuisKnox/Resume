@@ -76,6 +76,7 @@ Fort Lee, Virginia<br>
 | :------------ |
 | Oracle |
 | SQL |
+| Tape Backup |
 | Windows 95 |
 | Windows NT Server |
 | Windows NT Workstation |

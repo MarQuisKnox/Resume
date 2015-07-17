@@ -1,5 +1,5 @@
 # Software Developer
-#### March 2015 - Present
+#### March 2015 &mdash; Present
 * Independently developed custom desktop applications for Mac OS
 * Independently developed custom websites from concept to market
 * Independently developed custom APIs to share data between various applications

@@ -1,5 +1,5 @@
 # MarQuis Knox
-Polyglot Software Developer
+Polyglot Software Developer<br>
 19 years of professional experience (since 1996)
 
 # Software Developer

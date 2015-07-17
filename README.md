@@ -1,3 +1,7 @@
+# MarQuis Knox
+## Polyglot Software Developer
+#### 19 years of professional experience (since 1996)
+
 # Software Developer
 #### March 2015 &mdash; Present
 * Implemented Service Oriented Architecture (SOA) to reduce the amount of duplicate code & services

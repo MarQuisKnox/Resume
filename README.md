@@ -20,9 +20,7 @@
 * Troubleshot & resolved e-mail issues
 * Troubleshot & resolved network issues
 
-###### Technology Used
-
-| Name       | 
+| Technology Used | 
 | :------------ |
 | CSS |
 | CSS3 |

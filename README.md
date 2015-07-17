@@ -30,7 +30,7 @@
 | CSS |
 | CSS3 |
 | Debian |
-| [electron](https://github.com/atom/electron electron)
+| [electron](https://github.com/atom/electron)
 | Git |
 | GitHub |
 | Highcharts |

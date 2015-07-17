@@ -6,7 +6,7 @@
 
 | Highlights      | 
 | :------------ |
-| Created software to generate 220+ websites |
+| Created software to generate 220+ websites w/ different content & images|
 | Developed a Job Site (similar to Stepstone, Monster, et al) |
 | Developed a Project Management system (similar to JIRA) |
 | Developed a Task Management system (similar to Wunderlist) |

@@ -3,8 +3,6 @@ Polyglot Software Developer<br>
 19 years of professional experience (since 1996)
 <br>
 # Software Developer
-Company Undisclosed<br>
-Location Undisclosed<br>
 #### March 2015 &mdash; Present
 * Implemented Service Oriented Architecture (SOA) to reduce the amount of duplicate code & services
 * Independently developed cross platform desktop applications

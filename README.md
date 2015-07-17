@@ -3,6 +3,9 @@ Polyglot Software Developer<br>
 19 years of professional experience (since 1996)
 <br>
 # Software Developer
+<br>
+Company Undisclosed<br>
+Location Undisclosed<br>
 #### March 2015 &mdash; Present
 * Implemented Service Oriented Architecture (SOA) to reduce the amount of duplicate code & services
 * Independently developed cross platform desktop applications
@@ -58,7 +61,10 @@ Polyglot Software Developer<br>
 
 <h1>Systems Administrator<br>
 Database Administrator (DBA)</h1>
-Software Development Center, Fort Lee, Virginia<br>
+United States Army
+<br>
+Software Development Center<br>
+Fort Lee, Virginia<br>
 #### March 1997 &mdash; June 1998
 * Automated software installations
 * Maintained & resolved issues w/ an Oracle DB that was responsible for the civilian payroll

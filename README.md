@@ -71,6 +71,7 @@ March 1997 &mdash; June 1998
 | [NW.js](https://github.com/nwjs/nw.js)| 
 | PhotoShop |
 | PHP |
+| SQL |
 | SVN |
 | VMware | 
 | Zend Framework| 

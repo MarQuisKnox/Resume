@@ -8,6 +8,7 @@
 * Setup & configured New User Accounts
 * Setup & maintained websites from concept to market
 * Setup & maintained an Instant Messaging System (XMPP)
+* Setup & maintained MediaWiki for internal usage
 * Maintained & refactored existing websites
 * Troubleshot & resolved e-mail issues
 * Troubleshot & resolved network issues
@@ -25,7 +26,8 @@
 | HTML5 |
 | iOS |
 | JSON |
-| Mac OS | 
+| Mac OS |
+| MediaWiki | 
 | MySQL      |
 | PhotoShop |
 | PHP |

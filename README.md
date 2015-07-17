@@ -6,7 +6,7 @@
 
 | Highlights      | 
 | :------------ |
-| Developed a Job Site (similar to Stepstone, Monester, et al) |
+| Developed a Job Site (similar to Stepstone, Monster, et al) |
 | Developed a Project Management system (similar to JIRA) |
 | Developed a Task Management system (similar to Wunderlist) |
 

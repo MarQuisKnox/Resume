@@ -7,8 +7,9 @@
 | Highlights      | 
 | :------------ |
 | Created software to generate 220+ websites w/ different content & images|
-| Developed a Job Site (similar to Stepstone, Monster, et al) |
+| Developed a Job site (similar to Stepstone, Monster, et al) |
 | Developed a Project Management system (similar to JIRA) |
+| Developed a Social Network (similar to Facebook, Yammer, et al) |
 | Developed a Task Management system (similar to Wunderlist) |
 
 * Independently developed custom APIs to share data between various applications

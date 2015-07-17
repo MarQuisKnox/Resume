@@ -4,11 +4,11 @@
 * Independently developed custom websites from concept to market
 * Independently developed custom APIs to share data between various applications
 * Implemented Service Oriented Architecture (SOA) to reduce the amount of duplicate code & services
+* Maintained & refactored existing websites
 * R & D to determine the best solution for specific scenarios 
 * Setup & maintained websites from concept to market
 * Setup & maintained an Instant Messaging System (XMPP)
 * Setup & maintained MediaWiki for internal usage
-* Maintained & refactored existing websites
 * Troubleshot & resolved e-mail issues
 * Troubleshot & resolved network issues
 

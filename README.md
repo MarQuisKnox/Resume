@@ -48,3 +48,4 @@
 | SVN |
 | VMware | 
 | Zend Framework| 
+|XMPP|

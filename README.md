@@ -1,6 +1,5 @@
 # MarQuis Knox
-##### Polyglot Software Developer
-<br>
+Polyglot Software Developer
 19 years of professional experience (since 1996)
 
 # Software Developer

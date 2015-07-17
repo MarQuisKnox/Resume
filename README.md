@@ -1,6 +1,7 @@
 # Software Developer
 #### March 2015 &mdash; Present
 * Implemented Service Oriented Architecture (SOA) to reduce the amount of duplicate code & services
+* Independently developed cross platform desktop applications
 * Independently developed custom desktop applications for Mac OS
 * Independently developed custom websites from concept to market
 
@@ -28,6 +29,7 @@
 | CSS |
 | CSS3 |
 | Debian |
+| [https://github.com/atom/electron electron]
 | Git |
 | GitHub |
 | Highcharts |
@@ -39,6 +41,7 @@
 | Mac OS |
 | MediaWiki | 
 | MySQL      |
+| https://github.com/nwjs/nw.js NW.js| 
 | PhotoShop |
 | PHP |
 | SVN |

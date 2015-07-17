@@ -3,13 +3,12 @@
 * Implemented Service Oriented Architecture (SOA) to reduce the amount of duplicate code & services
 * Independently developed custom desktop applications for Mac OS
 * Independently developed custom websites from concept to market
-###### Highlights
 
-| Project       | 
+| Highlights      | 
 | ------------- |
-| Job Site (similar to Stepstone, Monester, et al) |
-| Project Management system (similar to JIRA) |
-| Task Management system (similar to Wunderlist) |
+| Developed a Job Site (similar to Stepstone, Monester, et al) |
+| Developed a Project Management system (similar to JIRA) |
+| Developed a Task Management system (similar to Wunderlist) |
 
 * Independently developed custom APIs to share data between various applications
 * Maintained & refactored existing websites

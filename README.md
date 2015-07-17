@@ -3,8 +3,8 @@ Polyglot Software Developer<br>
 19 years of professional experience (since 1996)
 <br>
 <br>
-<strong>Systems Administrator</strong><br>
-<strong>Database Administrator (DBA)</strong><br><br>
+# Systems Administrator<br>
+Database Administrator (DBA)<br><br>
 Software Development Center, Fort Lee, Virginia<br>
 March 1997 &mdash; June 1998
 * Automated software installations

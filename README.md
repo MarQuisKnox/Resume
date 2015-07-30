@@ -22,10 +22,12 @@ Polyglot Software Developer<br>
 * Independently developed custom APIs to share data between various applications
 * Maintained & refactored existing websites
 * R & D to determine the best solution for specific scenarios 
-* Setup & maintained Chromecast across multiple target devices
-* Setup & maintained websites from concept to market
-* Setup & maintained an Instant Messaging System (XMPP)
-* Setup & maintained MediaWiki for internal usage
+* Setup, configured, & maintained Chromecast across multiple target devices
+* Setup, configured, & maintained websites from concept to market
+* Setup, configured, & maintained an Instant Messaging System (XMPP)
+* Setup, configured, & maintained MediaWiki for internal usage
+* Setup, configured, & maintained GitLab (Git)
+* Setup, configured, & maintained SVN (Subversion)
 * Troubleshot & resolved e-mail issues
 * Troubleshot & resolved network issues
 

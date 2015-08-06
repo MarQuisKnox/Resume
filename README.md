@@ -13,10 +13,10 @@ Polyglot Software Developer<br>
 | Developed a Social Network for internal use (similar to Facebook, Yammer, et al) |
 | Developed a Task Management system (similar to Wunderlist) |
 | Developed software to track web analytics (similar to Google Analytics, Piwik, Open Web Analytics, et al) |
-| Developed encrypted password management software for teams |
+| Developed an encrypted Password Management system for teams |
 
 * Implemented Service Oriented Architecture (SOA) to reduce the amount of duplicate code & services
-* Independently developed, & maintained an encrypted password management system for teams
+* Independently developed, & maintained an encrypted Password Management system for teams
 * Independently developed cross platform desktop applications
 * Independently developed custom desktop applications for Mac OS
 * Independently developed custom websites from concept to market

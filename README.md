@@ -47,6 +47,7 @@ Polyglot Software Developer<br>
 | iOS |
 | JavaScript |
 | JSON |
+| [KeePassX](https://github.com/keepassx/keepassx) |
 | Mac OS |
 | MediaWiki | 
 | MySQL      |

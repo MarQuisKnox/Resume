@@ -15,6 +15,7 @@ Polyglot Software Developer<br>
 | Developed software to track web analytics (similar to Google Analytics, Piwik, Open Web Analytics, et al) |
 | Developed an encrypted Password Management system for teams |
 
+* Configured & maintained the e-mail server
 * Implemented Service Oriented Architecture (SOA) to reduce the amount of duplicate code & services
 * Independently developed, & maintained an encrypted Password Management system for teams
 * Independently developed cross platform desktop applications
@@ -23,12 +24,17 @@ Polyglot Software Developer<br>
 * Independently developed custom APIs to share data between various applications
 * Maintained & refactored existing websites
 * R & D to determine the best solution for specific scenarios 
+* Setup, configured, & maintained a CalDAV server
+* Setup, configured, & maintained a CardDAV server
 * Setup, configured, & maintained Chromecast across multiple target devices
 * Setup, configured, & maintained websites from concept to market
 * Setup, configured, & maintained an Instant Messaging System (XMPP)
+* Setup, configured, & maintained Open Directory
 * Setup, configured, & maintained MediaWiki for internal usage
 * Setup, configured, & maintained GitLab (Git)
 * Setup, configured, & maintained SVN (Subversion)
+* Setup, configured, & maintained Mac OS-based user workstations
+* Setup, configured, & maintained OS X Server
 * Troubleshot & resolved e-mail issues
 * Troubleshot & resolved network issues
 

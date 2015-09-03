@@ -2,6 +2,11 @@
 Polyglot Software Developer<br>
 19 years of professional experience (since 1996)
 <br>
+<br>
+I am currently available for freelancing oppurtunites. Minimum budget:  100K.
+<br>
+<br>
+<br>
 # Software Developer
 #### March 2015 &mdash; Present
 | Highlights      | 

@@ -5,7 +5,7 @@ Polyglot Software Developer<br>
 <br>
 I am currently available for freelancing oppurtunites. 
 <br>
-Minimum budget:  100K.
+Minimum budget:&nbsp;&nbsp;100K €.
 <br>
 <br>
 # Software Developer

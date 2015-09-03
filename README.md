@@ -7,13 +7,13 @@ Polyglot Software Developer<br>
 | Highlights      | 
 | :------------ |
 | Created software to generate 220+ websites w/ different content & images|
-| Developed a Job site (similar to Stepstone, Monster, et al) |
-| Developed a Project Management system (similar to JIRA) |
-| Developed a Sales Reporting system (CRM & ERP features) |
-| Developed a Social Network for internal use (similar to Facebook, Yammer, et al) |
-| Developed a Task Management system (similar to Wunderlist) |
-| Developed software to track web analytics (similar to Google Analytics, Piwik, Open Web Analytics, et al) |
-| Developed an encrypted Password Management system for teams |
+| Independently developed a Job site (similar to Stepstone, Monster, et al) |
+| Independently developed a Project Management system (similar to JIRA) |
+| Independently developed a Sales Reporting system (CRM & ERP features) |
+| Independently developed a Social Network for internal use (similar to Facebook, Yammer, et al) |
+| Independently developed a Task Management system (similar to Wunderlist) |
+| Independently developed software to track web analytics (similar to Google Analytics, Piwik, Open Web Analytics, et al) |
+| Independently developed an encrypted Password Management system for teams |
 
 * Configured & maintained the e-mail server
 * Implemented Service Oriented Architecture (SOA) to reduce the amount of duplicate code & services

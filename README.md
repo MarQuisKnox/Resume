@@ -35,6 +35,7 @@ Polyglot Software Developer<br>
 * Setup, configured, & maintained SVN (Subversion)
 * Setup, configured, & maintained Mac OS-based user workstations
 * Setup, configured, & maintained OS X Server
+* Setup, configured, & maintained all network devices (servers, routers, switches, etc)
 * Troubleshot & resolved e-mail issues
 * Troubleshot & resolved network issues
 

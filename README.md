@@ -3,9 +3,9 @@ Polyglot Software Developer<br>
 19 years of professional experience (since 1996)
 <br>
 <br>
-I am currently available for freelancing oppurtunites. 
+I am currently available for freelancing opportunites. 
 <br>
-Minimum budget:&nbsp;&nbsp;100K €.
+Minimum budget:&nbsp;&nbsp;150K €
 <br>
 <br>
 # Software Developer

@@ -20,6 +20,7 @@ Minimum budget:&nbsp;&nbsp;150K €
 | Independently developed a Task Management system (similar to Wunderlist) |
 | Independently developed software to track web analytics (similar to Google Analytics, Piwik, Open Web Analytics, et al) |
 | Independently developed an encrypted Password Management system for teams |
+| Independently migrating the organization from a legacy CRM system to Salesforce using custom written software & Salesforce APIs |
 
 * Configured & maintained the e-mail server
 * Implemented Service Oriented Architecture (SOA) to reduce the amount of duplicate code & services

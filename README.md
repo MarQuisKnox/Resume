@@ -8,7 +8,7 @@ I am currently available for freelancing opportunites.
 Minimum budget:&nbsp;&nbsp;150K €
 <br>
 <br>
-# Software Developer / System Administrator
+<h1>Software Developer<br>System Administrator</h1>
 #### March 2015 &mdash; Present
 | Highlights      | 
 | :------------ |
